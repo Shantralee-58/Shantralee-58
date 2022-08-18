@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shantralee-58
+- 👋 Hi, I’m @LindiweKhumalo
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning 
 
