@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LindiweKhumalo
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning 
+- 🌱 Alx Student
 
 -
 
