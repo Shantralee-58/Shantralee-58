@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LindiweKhumalo
-- 👀 I’m interested in software development 
-- 🌱 Alx Student
+- 👋 Hi, I’m @IdahKhumalo
+- 👀 I’m interested in software development and software engineering
+- 🌱 Alx and British Columbia Institute of Technology Student
 
 -
 
